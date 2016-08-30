@@ -1,0 +1,23 @@
+{
+  "name": "html-scraper",
+  "version": "1.0.0",
+  "description": "A simple node web scraper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorprimoris/30-08-2016.git"
+  },
+  "author": "Tim Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorprimoris/30-08-2016/issues"
+  },
+  "homepage": "https://github.com/victorprimoris/30-08-2016#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.74.0"
+  }
+}
